@@ -455,4 +455,20 @@
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-youtubefix-alt.txt"
   }
+  {
+    "name": "strategy-ultimatefix.txt",
+    "author": "roman5432990",
+    "description": "стратегии от автора Роман (портировал PixelSymbols)",
+    "hash": "",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-ultimatefix.txt"
+  }
+  {
+    "name": "strategy-youtube-fix-mts.txt",
+    "author": "g4me_ART",
+    "description": "стратегии от автора Mag4me_ART (портировал PixelSymbols)",
+    "hash": "",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-youtube-fix-mts.txt"
+  }
 ]
