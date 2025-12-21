@@ -112,6 +112,13 @@
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
   },
   {
+    "name": "list-exclude-yandex.txt",
+    "author": "@mewmrow",
+    "description": "Яндекс домены для черного списка",
+    "hash": "a364c7819fce04213775ebc8a2f371322adefe47d2cebd38400719f088266951",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-yandex.txt"
+  },
     "name": "list-exclude-x5group.txt",
     "author": "@mewmrow",
     "description": "X5group домены для черного списка",
