@@ -46,5 +46,13 @@
     "hash": "87fba6771de3e6c62444a10bd6395132390d7b6dd0b25c1380ee1a02084e2dc6",
     "type": "ipset",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-telegram.txt"
+  },
+  {
+    "name": "ipset-whatsapp.txt",
+    "description": "Ipset'ы для работы whatsapp (отправляет сообщения не сразу)",
+    "author": "@mewmrow",
+    "hash": "e64823475402b86935abc8dbe88e8973a373e1b3779faeeefbc2eb01c9693533",
+    "type": "ipset",
+    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-whatsapp.txt"
   }
 ]

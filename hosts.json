@@ -134,5 +134,13 @@
     "hash": "b4618bb186e77aad2f2ed98c64bdc01df7a67597837cc2a423f303f6ecd7181b",
     "type": "list_exclude",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-gosuslugi.txt"
+  },
+  {
+    "name": "list-whatsapp.txt",
+    "author": "@mewmrow",
+    "description": "Домены whatsapp (отправляет сообщения не сразу)",
+    "hash": "128f8b14dbf49cc47ac97c7962efc7da76dc568ac0855b3bef090c832992eff6",
+    "type": "include",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-whatsapp.txt"
   }
 ]
